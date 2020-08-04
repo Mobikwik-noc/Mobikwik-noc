@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Mobikwik-noc/Mobikwik-noc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,8 +44,8 @@ Happy Coding! 😊
 
 <i>Follow me around the web:</i><br>
 
-<!-- <a href="https://www.linkedin.com/in/vansh-madan-03b297137/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href=https://www.facebook.com/vansh.madan.127 target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<!-- <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href=https://www.facebook.com/ target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </a>
 <img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
 </a> -->
