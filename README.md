@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 </div>
 
-You have finally discovered my Github profile. 👋 <br>
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
+You have finally discovered NOC's Github profile. 👋 <br>
+Please feel free to clone projects, raise issues if you think something could be better. <br>
 Ask me anything **[here](https://github.com/Mobikwik-noc/Mobikwik-noc/issues/new)**<br>
 or **[email](mailto:vanshkumarmadan@gmail.com)** me
 
